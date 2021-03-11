@@ -4,61 +4,61 @@
             "id": 1,
             "seriesID": 1001,
             "title": "You",
-            "description": "You is an American psychological thriller television series developed by Greg Berlanti and Sera Gamble."
+            "description": "An American psychological thriller television series developed by Greg Berlanti and Sera Gamble."
         },
         {
             "id": 2,
             "seriesID": 1002,
             "title": "Black Mirror",
-            "description": "Black Mirror is a British dystopian science fiction anthology television series created by Charlie Brooker."
+            "description": "A British dystopian science fiction anthology television series created by Charlie Brooker."
         },
         {
             "id": 3,
             "seriesID": 1003,
             "title": "The Haunting of Hill House",
-            "description": "The Haunting of Hill House is an American supernatural horror drama television series created and directed by Mike Flanagan, and serves as the first entry in The Haunting anthology series."
+            "description": "An American supernatural horror drama television series created and directed by Mike Flanagan."
         },
         {
             "id": 4,
             "seriesID": 1004,
             "title": "Dynasty",
-            "description": "Dynasty is an American prime time television soap opera based on the 1980s series of the same name."
+            "description": "An American prime time television soap opera based on the 1980s series of the same name."
         },
         {
             "id": 5,
             "seriesID": 1005,
             "title": "Gossip Girl",
-            "description": "Gossip Girl is an American teen drama television series based on the novel series of the same name written by Cecily von Ziegesar."
+            "description": "An American teen drama television series based on the novel series of the same name written by Cecily von Ziegesar."
         },
         {
             "id": 6,
             "seriesID": 1006,
             "title": "Elite",
-            "description": "Elite is a Spanish thriller teen drama streaming television series created for Netflix by Carlos Montero and Darío Madrona."
+            "description": "A Spanish thriller teen drama streaming television series created for Netflix by Carlos Montero and Darío Madrona."
         },
         {
             "id": 7,
             "seriesID": 1007,
             "title": "The Originals",
-            "description": "The Originals is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013."
+            "description": "An American fantasy supernatural drama television series that began airing on The CW on October 3, 2013."
         },
         {
             "id": 8,
             "seriesID": 1008,
             "title": "The Vampire Diaries",
-            "description": "The Vampire Diaries is an American supernatural teen drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L. J. Smith."
+            "description": "An American supernatural teen drama television series developed by Kevin Williamson and Julie Plec."
         },
         {
             "id": 9,
             "seriesID": 1009,
             "title": "Sherlock",
-            "description": "Sherlock is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories."
+            "description": "A British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories."
         },
         {
             "id": 10,
             "seriesID": 1010,
             "title": "Breaking Bad",
-            "description": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan."
+            "description": "An American neo-Western crime drama television series created and produced by Vince Gilligan."
         }
     ],
     "movies": [
@@ -231,6 +231,30 @@
             "CompanyName": "The Ritz-Carlton Hotel Company",
             "country": "The United States of America",
             "field": "luxury hotel chain"
+        },
+        {
+            "id": 7,
+            "CompanyName": "Marriott International, Inc.",
+            "country": "The United States of America",
+            "field": "hospitality"
+        },
+        {
+            "id": 8,
+            "CompanyName": "Facebook, Inc.",
+            "country": "The United States of America",
+            "field": "information technology, social networking services"
+        },
+        {
+            "id": 9,
+            "CompanyName": "Kylie Cosmetics",
+            "country": "The United States of America",
+            "field": "cosmetics"
+        },
+        {
+            "id": 10,
+            "CompanyName": "BI Group",
+            "country": "Kazakhstan",
+            "field": "constraction"
         }
     ],
     "metals": [
@@ -269,6 +293,30 @@
             "name": "Scandium",
             "chemical sign": "Sc",
             "atomic number": 21
+        },
+        {
+            "id": 7,
+            "name": "Titanium",
+            "chemical sign": "Ti",
+            "atomic number": 22
+        },
+        {
+            "id": 8,
+            "name": "Iridium",
+            "chemical sign": "Ir",
+            "atomic number": 77
+        },
+        {
+            "id": 9,
+            "name": "Platinum",
+            "chemical sign": "Pt",
+            "atomic number": 78
+        },
+        {
+            "id": 10,
+            "name": "Wolfram",
+            "chemical sign": "W",
+            "atomic number": 74
         }
     ]
 }
