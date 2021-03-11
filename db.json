@@ -4,61 +4,61 @@
       "id": 1,
       "seriesID":1001,
       "title": "You",
-      "description": ""You" is an American psychological thriller television series developed by Greg Berlanti and Sera Gamble."
+      "description": "You is an American psychological thriller television series developed by Greg Berlanti and Sera Gamble."
     },
     {
       "id": 2,
       "seriesID":1002,
       "title": "Black Mirror",
-      "description": ""Black Mirror" is a British dystopian science fiction anthology television series created by Charlie Brooker."
+      "description": "Black Mirror is a British dystopian science fiction anthology television series created by Charlie Brooker."
     },
     {
       "id": 3,
       "seriesID":1003,
       "title": "The Haunting of Hill House",
-      "description": ""The Haunting of Hill House" is an American supernatural horror drama television series created and directed by Mike Flanagan, produced by Amblin Television and Paramount Television, for Netflix, and serves as the first entry in The Haunting anthology series."
+      "description": "The Haunting of Hill House is an American supernatural horror drama television series created and directed by Mike Flanagan, produced by Amblin Television and Paramount Television, for Netflix, and serves as the first entry in The Haunting anthology series."
     },
     {
       "id": 4,
       "seriesID":1004,
       "title": "Dynasty",
-      "description": ""Dynasty" is an American prime time television soap opera based on the 1980s series of the same name."
+      "description": "Dynasty is an American prime time television soap opera based on the 1980s series of the same name."
     },
     {
       "id": 5,
       "seriesID":1005,
       "title": "Gossip Girl",
-      "description": ""Gossip Girl" is an American teen drama television series based on the novel series of the same name written by Cecily von Ziegesar."
+      "description": "Gossip Girl is an American teen drama television series based on the novel series of the same name written by Cecily von Ziegesar."
     },
     {
       "id": 6,
       "seriesID":1006,
       "title": "Elite",
-      "description": ""Elite" is a Spanish thriller teen drama streaming television series created for Netflix by Carlos Montero and Darío Madrona."
+      "description": "Elite is a Spanish thriller teen drama streaming television series created for Netflix by Carlos Montero and Darío Madrona."
     },
     {
       "id": 7,
       "seriesID":1007,
       "title": "The Originals",
-      "description": ""The Originals" is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013."
+      "description": "The Originals is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013."
     },
     {
       "id": 8,
       "seriesID":1008,
       "title": "The Vampire Diaries",
-      "description": ""The Vampire Diaries" is an American supernatural teen drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L. J. Smith."
+      "description": "The Vampire Diaries is an American supernatural teen drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L. J. Smith."
     },
     {
       "id": 9,
       "seriesID":1009,
       "title": "Sherlock",
-      "description": ""Sherlock" is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories."
+      "description": "Sherlock is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories."
     },
     {
       "id": 10,
       "seriesID":1010,
       "title": "Breaking Bad",
-      "description": ""Breaking Bad" is an American neo-Western crime drama television series created and produced by Vince Gilligan."
+      "description": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan."
     }
   ],
   "movies": [
