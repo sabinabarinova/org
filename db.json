@@ -67,7 +67,7 @@
       "MovieName": "Forrest Gump",
       "CompanyName": "Paramount Pictures",
       "Country": "The United States of America",
-      "ReleasedDate": 23-06-1994,
+      "ReleasedDate": "23-06-1994",
       "Budget": "$55 million",
       "BoxOffice": "$683.1 million"
     },
@@ -76,7 +76,7 @@
       "MovieName": "The Silence of the Lambs",
       "CompanyName": "Orion Pictures",
       "Country": "The United States of America",
-      "ReleasedDate": 30-01-1991,
+      "ReleasedDate": "30-01-1991",
       "Budget": "	$19 million",
       "BoxOffice": "$272.7 million"
     },
@@ -85,7 +85,7 @@
       "MovieName": "Parasite",
       "CompanyName": "CJ Entertainment",
       "Country": "South Korea",
-      "ReleasedDate": 21-05-2019,
+      "ReleasedDate": "21-05-2019",
       "Budget": "$15.5 million",
       "BoxOffice": "$258.8 million"
     },
@@ -94,7 +94,7 @@
       "MovieName": "Back to the Future",
       "CompanyName": "Universal Pictures",
       "Country": "The United States of America",
-      "ReleasedDate": 03-07-1985,
+      "ReleasedDate": "03-07-1985",
       "Budget": "$19 million",
       "BoxOffice": "$388.8 million"
     },
@@ -103,7 +103,7 @@
       "MovieName": "Shutter Island ",
       "CompanyName": "Paramount Pictures",
       "Country": "The United States of America",
-      "ReleasedDate": 13-02-2010,
+      "ReleasedDate": "13-02-2010",
       "Budget": "$80 million",
       "BoxOffice": "$388.8 million"
     },
@@ -112,7 +112,7 @@
       "MovieName": "The Invisible Guest",
       "CompanyName": "Warner Bros. Pictures",
       "Country": "Spain",
-      "ReleasedDate": 23-09-2016,
+      "ReleasedDate": "23-09-2016",
       "Budget": "$4.5 million",
       "BoxOffice": "$30.5 million"
     },
@@ -121,7 +121,7 @@
       "MovieName": "Jumanji: Welcome to the Jungle",
       "CompanyName": "Sony Pictures Releasing",
       "Country": "The United States of America",
-      "ReleasedDate": 05-12-2017,
+      "ReleasedDate": "05-12-2017",
       "Budget": "$90–150 million",
       "BoxOffice": "$962.2 million"
     },
@@ -130,7 +130,7 @@
       "MovieName": "Crazy Rich Asians",
       "CompanyName": "Warner Bros. Pictures",
       "Country": "The United States of America",
-      "ReleasedDate": 07-08-2018,
+      "ReleasedDate": "07-08-2018",
       "Budget": "$30 million",
       "BoxOffice": "$238.5 million"
     },
@@ -139,7 +139,7 @@
       "MovieName": "Perfect Strangers",
       "CompanyName": "Medusa Film",
       "Country": "Italy",
-      "ReleasedDate": 11-02-2016,
+      "ReleasedDate": "11-02-2016",
       "Budget": "$3.7 million",
       "BoxOffice": "	$31.47 million"
     },
@@ -148,7 +148,7 @@
       "MovieName": "Hannibal",
       "CompanyName": "MGM Distribution Co.",
       "Country": "The United States of America",
-      "ReleasedDate": 09-02-2001,
+      "ReleasedDate": "09-02-2001",
       "Budget": "$87 million",
       "BoxOffice": "$351.6  million"
     }
