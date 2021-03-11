@@ -155,52 +155,52 @@
   ],
   "photos": [
     {
-      "photoID": 1,
+      "id": 1,
       "name": "Nature",
       "url": "https://www.pinterest.com/pin/564709240770047187/"
     },
     {
-      "photoID": 2,
+      "id": 2,
       "name": "City",
       "url": "https://www.pinterest.com/pin/34762228363517669/"
     },
     {
-      "photoID": 3,
+      "id": 3,
       "name": "Wedding",
       "url": "https://www.pinterest.com/pin/297589487883467524/"
     },
     {
-      "photoID": 4,
+      "id": 4,
       "name": "Flowers",
       "url": "https://www.pinterest.com/pin/32440059793582030/"
     },
     {
-      "photoID": 5,
+      "id": 5,
       "name": "Cars",
       "url": "https://www.pinterest.com/pin/25684660365173459/"
     },
     {
-      "photoID": 6,
+      "id": 6,
       "name": "Stars",
       "url": "https://www.pinterest.com/pin/13088655155797373/"
     },
     {
-      "photoID": 7,
+      "id": 7,
       "name": "Celebrities",
       "url": "https://www.pinterest.com/pin/339036678203044679/"
     },
     {
-      "photoID": 8,
+      "id": 8,
       "name": "Smoke",
       "url": "https://www.pinterest.com/pin/32017847337971160/"
     },
     {
-      "photoID": 9,
+      "id": 9,
       "name": "Candies",
       "url": "https://www.pinterest.com/pin/68738028514/"
     },
     {
-      "photoID": 10,
+      "id": 10,
       "name": "Beauty",
       "url": "https://www.pinterest.com/pin/6403624460198501/"
     }
