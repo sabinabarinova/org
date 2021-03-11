@@ -1,0 +1,332 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "seriesID":1001,
+      "title": "You",
+      "description": ""You" is an American psychological thriller television series developed by Greg Berlanti and Sera Gamble."
+    },
+    {
+      "id": 2,
+      "seriesID":1002,
+      "title": "Black Mirror",
+      "description": ""Black Mirror" is a British dystopian science fiction anthology television series created by Charlie Brooker."
+    },
+    {
+      "id": 3,
+      "seriesID":1003,
+      "title": "The Haunting of Hill House",
+      "description": ""The Haunting of Hill House" is an American supernatural horror drama television series created and directed by Mike Flanagan, produced by Amblin Television and Paramount Television, for Netflix, and serves as the first entry in The Haunting anthology series."
+    },
+    {
+      "id": 4,
+      "seriesID":1004,
+      "title": "Dynasty",
+      "description": ""Dynasty" is an American prime time television soap opera based on the 1980s series of the same name."
+    },
+    {
+      "id": 5,
+      "seriesID":1005,
+      "title": "Gossip Girl",
+      "description": ""Gossip Girl" is an American teen drama television series based on the novel series of the same name written by Cecily von Ziegesar."
+    },
+    {
+      "id": 6,
+      "seriesID":1006,
+      "title": "Elite",
+      "description": ""Elite" is a Spanish thriller teen drama streaming television series created for Netflix by Carlos Montero and Darío Madrona."
+    },
+    {
+      "id": 7,
+      "seriesID":1007,
+      "title": "The Originals",
+      "description": ""The Originals" is an American fantasy supernatural drama television series that began airing on The CW on October 3, 2013."
+    },
+    {
+      "id": 8,
+      "seriesID":1008,
+      "title": "The Vampire Diaries",
+      "description": ""The Vampire Diaries" is an American supernatural teen drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L. J. Smith."
+    },
+    {
+      "id": 9,
+      "seriesID":1009,
+      "title": "Sherlock",
+      "description": ""Sherlock" is a British crime television series based on Sir Arthur Conan Doyle's Sherlock Holmes detective stories."
+    },
+    {
+      "id": 10,
+      "seriesID":1010,
+      "title": "Breaking Bad",
+      "description": ""Breaking Bad" is an American neo-Western crime drama television series created and produced by Vince Gilligan."
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "MovieName": "Forrest Gump",
+      "CompanyName": "Paramount Pictures",
+      "Country": "The United States of America",
+      "ReleasedDate": 23-06-1994,
+      "Budget": "$55 million",
+      "BoxOffice": "$683.1 million"
+    },
+    {
+      "id": 2,
+      "MovieName": "The Silence of the Lambs",
+      "CompanyName": "Orion Pictures",
+      "Country": "The United States of America",
+      "ReleasedDate": 30-01-1991,
+      "Budget": "	$19 million",
+      "BoxOffice": "$272.7 million"
+    },
+    {
+      "id": 3,
+      "MovieName": "Parasite",
+      "CompanyName": "CJ Entertainment",
+      "Country": "South Korea",
+      "ReleasedDate": 21-05-2019,
+      "Budget": "$15.5 million",
+      "BoxOffice": "$258.8 million"
+    },
+    {
+      "id": 4,
+      "MovieName": "Back to the Future",
+      "CompanyName": "Universal Pictures",
+      "Country": "The United States of America",
+      "ReleasedDate": 03-07-1985,
+      "Budget": "$19 million",
+      "BoxOffice": "$388.8 million"
+    },
+    {
+      "id": 5,
+      "MovieName": "Shutter Island ",
+      "CompanyName": "Paramount Pictures",
+      "Country": "The United States of America",
+      "ReleasedDate": 13-02-2010,
+      "Budget": "$80 million",
+      "BoxOffice": "$388.8 million"
+    },
+    {
+      "id": 6,
+      "MovieName": "The Invisible Guest",
+      "CompanyName": "Warner Bros. Pictures",
+      "Country": "Spain",
+      "ReleasedDate": 23-09-2016,
+      "Budget": "$4.5 million",
+      "BoxOffice": "$30.5 million"
+    },
+    {
+      "id": 7,
+      "MovieName": "Jumanji: Welcome to the Jungle",
+      "CompanyName": "Sony Pictures Releasing",
+      "Country": "The United States of America",
+      "ReleasedDate": 05-12-2017,
+      "Budget": "$90–150 million",
+      "BoxOffice": "$962.2 million"
+    },
+    {
+      "id": 8,
+      "MovieName": "Crazy Rich Asians",
+      "CompanyName": "Warner Bros. Pictures",
+      "Country": "The United States of America",
+      "ReleasedDate": 07-08-2018,
+      "Budget": "$30 million",
+      "BoxOffice": "$238.5 million"
+    },
+    {
+      "id": 9,
+      "MovieName": "Perfect Strangers",
+      "CompanyName": "Medusa Film",
+      "Country": "Italy",
+      "ReleasedDate": 11-02-2016,
+      "Budget": "$3.7 million",
+      "BoxOffice": "	$31.47 million"
+    },
+    {
+      "id": 10,
+      "MovieName": "Hannibal",
+      "CompanyName": "MGM Distribution Co.",
+      "Country": "The United States of America",
+      "ReleasedDate": 09-02-2001,
+      "Budget": "$87 million",
+      "BoxOffice": "$351.6  million"
+    }
+  ],
+  "photos": [
+    {
+      "photoID": 1,
+      "name": "Nature",
+      "url": "https://www.google.com/search?q=nature+photos&sxsrf=ALeKk03gOadsmZBfYXHYxH8uCUnJlVcdCw:1615462474632&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi56MrXkqjvAhVxkosKHaaaBNIQ_AUoAXoECBQQAw&biw=1280&bih=586#imgrc=B0kX0T2swivuHM"
+    },
+    {
+      "photoID": 2,
+      "name": "City",
+      "url": "https://www.pinterest.com/pin/34762228363517669/"
+    },
+    {
+      "photoID": 3,
+      "name": "Wedding",
+      "url": "https://www.pinterest.com/pin/297589487883467524/"
+    },
+    {
+      "photoID": 4,
+      "name": "Flowers",
+      "url": "https://www.pinterest.com/pin/32440059793582030/"
+    },
+    {
+      "photoID": 5,
+      "name": "Cars",
+      "url": "https://www.google.com/search?q=cars&sxsrf=ALeKk01NokqvmeTSLjnoxnOglPA4iK3iyw:1615463049829&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_7-3plKjvAhVOlosKHS0DB40Q_AUoAXoECAsQAw&biw=1280&bih=586#imgrc=cB0JI16dIfkHWM"
+    },
+    {
+      "photoID": 6,
+      "name": "Stars",
+      "url": "https://www.google.com/search?q=stars+sky&tbm=isch&ved=2ahUKEwjIrJqAlajvAhWHqIsKHcRDCPwQ2-cCegQIABAA&oq=stars+&gs_lcp=CgNpbWcQARgFMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDUMAfWMAfYMw4aABwAHgAgAF0iAF0kgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=uAJKYMjwKYfRrgTEh6HgDw&bih=586&biw=1280#imgrc=r19ufrXBNE1BrM"
+    },
+    {
+      "photoID": 7,
+      "name": "Celebrities",
+      "url": "https://www.google.com/search?q=j%2Cott+ajnj+pdepl&tbm=isch&ved=2ahUKEwjZ_bCXlajvAhVNxioKHf8OAOEQ2-cCegQIABAA&oq=j%2Cott+ajnj+pdepl&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BwgjEOoCECc6BAgAEEM6BggAEAoQAToECAAQHjoECAAQAVDRc1iCpwFgk6kBaAFwAHgDgAGzAYgBhRmSAQQwLjI2mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=6QJKYJnlEc2MqwH_nYCIDg&bih=586&biw=1280#imgrc=DAqRBYbL9szsCM&imgdii=LrQAmsCCY66MAM"
+    },
+    {
+      "photoID": 8,
+      "name": "Smoke",
+      "url": "https://www.pinterest.com/pin/32017847337971160/"
+    },
+    {
+      "photoID": 9,
+      "name": "Candies",
+      "url": "https://www.google.com/search?q=candies&sxsrf=ALeKk00x3JhjdKfIIXHk_ovk7B6Z0J7eUQ:1615462767957&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiu4Lnjk6jvAhVMposKHRCmALAQ_AUoAXoECAMQAw&biw=1280&bih=586#imgrc=sa5kbuGkQXJ0FM"
+    },
+    {
+      "photoID": 10,
+      "name": "Beauty",
+      "url": "https://www.google.com/search?q=beauty&tbm=isch&ved=2ahUKEwj3lcLkk6jvAhXGBncKHVNsCFEQ2-cCegQIABAA&oq=beauty&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgQIABBDOgUIABCxA1DByQNYx9QDYMDXA2gAcAB4AIABbogB2ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=cgFKYPeUC8aN3APT2KGIBQ&bih=586&biw=1280#imgrc=W2CA-VIELGOk_M"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "CompanyName": "Apple Inc.",
+      "country": "The United States of America",
+      "field": "consumer electronics, computer software, and online services"
+    },
+    {
+      "id": 2,
+      "CompanyName": "Toyota Motor Corporation",
+      "country": "Japan",
+      "field": "automotive manufacture"
+    },
+    {
+      "id": 3,
+      "CompanyName": "Mercedes-Benz",
+      "country": "Germany",
+      "field": "automotive manufacture"
+    },
+    {
+      "id": 4,
+      "CompanyName": "LVMH Moët Hennessy Louis Vuitton",
+      "country": "France",
+      "field": "luxury goods"
+    },
+    {
+      "id": 5,
+      "CompanyName": "Saudi Aramco",
+      "country": "Saudi Arabia",
+      "field": "public petroleum and natural gas"
+    },
+    {
+      "id": 6,
+      "CompanyName": "The Ritz-Carlton Hotel Company",
+      "country": "The United States of America",
+      "field": "luxury hotel chain"
+    },
+    {
+      "id": 7,
+      "CompanyName": "Marriott International, Inc.",
+      "country": "The United States of America",
+      "field": "hospitality"
+    },
+    {
+      "id": 8,
+      "CompanyName": "Facebook, Inc.",
+      "country": "The United States of America",
+      "field": "information technology, social networking services"
+    },
+    {
+      "id": 9,
+      "CompanyName": "Kylie Cosmetics",
+      "country": "The United States of America",
+      "field": "cosmetics"
+    },
+    {
+      "id": 10,
+      "CompanyName": "BI Group",
+      "country": "Kazakhstan",
+      "field": "constraction"
+    }
+  ],
+  "metals" [
+    {
+      "id": 1,
+      "name": "Gold",
+      "chemical sign": "Au",
+      "atomic number": 79
+    },
+    {
+      "id": 2,
+      "name": "Silver",
+      "chemical sign": "Ag",
+      "atomic number": 47
+    },
+    {
+      "id": 3,
+      "name": "Zinc",
+      "chemical sign": "Zn",
+      "atomic number": 30
+    },
+    {
+      "id": 4,
+      "name": "Iron",
+      "chemical sign": "Fe",
+      "atomic number": 26
+    },
+    {
+      "id": 5,
+      "name": "Copper",
+      "chemical sign": "Cu",
+      "atomic number": 29
+    },
+    {
+      "id": 6,
+      "name": "Scandium",
+      "chemical sign": "Sc",
+      "atomic number": 21
+    },
+    {
+      "id": 7,
+      "name": "Titanium",
+      "chemical sign": "Ti",
+      "atomic number": 22
+    },
+    {
+      "id": 8,
+      "name": "Iridium",
+      "chemical sign": "Ir",
+      "atomic number": 77
+    },
+    {
+      "id": 9,
+      "name": "Platinum",
+      "chemical sign": "Pt",
+      "atomic number": 78
+    },
+    {
+      "id": 10,
+      "name": "Wolfram",
+      "chemical sign": "W",
+      "atomic number": 74
+    }
+  ]
+}
