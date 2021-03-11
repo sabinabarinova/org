@@ -104,3 +104,221 @@
         },
         {
             "id": 6,
+            
+            "MovieName": "The Invisible Guest",
+            "CompanyName": "Warner Bros. Pictures",
+            "Country": "Spain",
+            "ReleasedDate": "23-09-2016",
+            "BoxOffice": "$30.5 million"
+        },
+        {
+            "id": 7,
+            "MovieName": "Jumanji: Welcome to the Jungle",
+            "CompanyName": "Sony Pictures Releasing",
+            "Country": "The United States of America",
+            "ReleasedDate": "05-12-2017",
+            "BoxOffice": "$962.2 million"
+        },
+        {
+            "id": 8,
+            "MovieName": "Crazy Rich Asians",
+            "CompanyName": "Warner Bros. Pictures",
+            "Country": "The United States of America",
+            "ReleasedDate": "07-08-2018",
+            "BoxOffice": "$238.5 million"
+        },
+        {
+            "id": 9,
+            "MovieName": "Perfect Strangers",
+            "CompanyName": "Medusa Film",
+            "Country": "Italy",
+            "ReleasedDate": "11-02-2016",
+            "BoxOffice": "$31.47 million"
+        },
+        {
+            "id": 10,
+            "MovieName": "Hannibal",
+            "CompanyName": "MGM Distribution Co.",
+            "Country": "The United States of America",
+            "ReleasedDate": "09-02-2001",
+            "BoxOffice": "$351.6 million"
+        }
+    ],
+    "photos": [
+        {
+            "id": 1,
+            "name": "Nature",
+            "url": "https://www.pinterest.com/pin/564709240770047187/"
+        },
+        {
+            "id": 2,
+            "name": "City",
+            "url": "https://www.pinterest.com/pin/34762228363517669/"
+        },
+        {
+            "id": 3,
+            "name": "Wedding",
+            "url": "https://www.pinterest.com/pin/297589487883467524/"
+        },
+        {
+            "id": 4,
+            "name": "Flowers",
+            "url": "https://www.pinterest.com/pin/32440059793582030/"
+        },
+        {
+            "id": 5,
+            "name": "Cars",
+            "url": "https://www.pinterest.com/pin/25684660365173459/"
+        },
+        {
+            "id": 6,
+            "name": "Stars",
+            "url": "https://www.pinterest.com/pin/13088655155797373/"
+        },
+        {
+            "id": 7,
+            "name": "Celebrities",
+            "url": "https://www.pinterest.com/pin/339036678203044679/"
+        },
+        {
+            "id": 8,
+            "name": "Smoke",
+            "url": "https://www.pinterest.com/pin/32017847337971160/"
+        },
+        {
+            "id": 9,
+            "name": "Candies",
+            "url": "https://www.pinterest.com/pin/68738028514/"
+        },
+        {
+            "id": 10,
+            "name": "Beauty",
+            "url": "https://www.pinterest.com/pin/6403624460198501/"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "CompanyName": "Apple Inc.",
+            "country": "The United States of America",
+            "field": "consumer electronics, computer software, and online services"
+        },
+        {
+            "id": 2,
+            "CompanyName": "Toyota Motor Corporation",
+            "country": "Japan",
+            "field": "automotive manufacture"
+        },
+        {
+            "id": 3,
+            "CompanyName": "Mercedes-Benz",
+            "country": "Germany",
+            "field": "automotive manufacture"
+        },
+        {
+            "id": 4,
+            "CompanyName": "LVMH Moët Hennessy Louis Vuitton",
+            "country": "France",
+            "field": "luxury goods"
+        },
+        {
+            "id": 5,
+            "CompanyName": "Saudi Aramco",
+            "country": "Saudi Arabia",
+            "field": "public petroleum and natural gas"
+        },
+        {
+            "id": 6,
+            "CompanyName": "The Ritz-Carlton Hotel Company",
+            "country": "The United States of America",
+            "field": "luxury hotel chain"
+        },
+        {
+            "id": 7,
+            "CompanyName": "Marriott International, Inc.",
+            "country": "The United States of America",
+            "field": "hospitality"
+        },
+        
+        {
+            "id": 8,
+            "CompanyName": "Facebook, Inc.",
+            "country": "The United States of America",
+            "field": "information technology, social networking services"
+        },
+        {
+            "id": 9,
+            "CompanyName": "Kylie Cosmetics",
+            "country": "The United States of America",
+            "field": "cosmetics"
+        },
+        {
+            "id": 10,
+            "CompanyName": "BI Group",
+            "country": "Kazakhstan",
+            "field": "constraction"
+        }
+    ],
+    "metals": [
+        {
+            "id": 1,
+            "name": "Gold",
+            "chemical sign": "Au",
+            "atomic number": 79
+        },
+        {
+            "id": 2,
+            "name": "Silver",
+            "chemical sign": "Ag",
+            "atomic number": 47
+        },
+        {
+            "id": 3,
+            "name": "Zinc",
+            "chemical sign": "Zn",
+            "atomic number": 30
+        },
+        {
+            "id": 4,
+            "name": "Iron",
+            "chemical sign": "Fe",
+            "atomic number": 26
+        },
+        {
+            "id": 5,
+            "name": "Copper",
+            "chemical sign": "Cu",
+            "atomic number": 29
+        },
+        {
+            "id": 6,
+            "name": "Scandium",
+            "chemical sign": "Sc",
+            "atomic number": 21
+        },
+        {
+            "id": 7,
+            "name": "Titanium",
+            "chemical sign": "Ti",
+            "atomic number": 22
+        },
+        {
+            "id": 8,
+            "name": "Iridium",
+            "chemical sign": "Ir",
+            "atomic number": 77
+        },
+        {
+            "id": 9,
+            "name": "Platinum",
+            "chemical sign": "Pt",
+            "atomic number": 78
+        },
+        {
+            "id": 10,
+            "name": "Wolfram",
+            "chemical sign": "W",
+            "atomic number": 74
+        }
+    ]
+}
