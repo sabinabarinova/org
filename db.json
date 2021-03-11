@@ -157,7 +157,7 @@
     {
       "photoID": 1,
       "name": "Nature",
-      "url": "https://www.google.com/search?q=nature+photos&sxsrf=ALeKk03gOadsmZBfYXHYxH8uCUnJlVcdCw:1615462474632&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi56MrXkqjvAhVxkosKHaaaBNIQ_AUoAXoECBQQAw&biw=1280&bih=586#imgrc=B0kX0T2swivuHM"
+      "url": "https://www.pinterest.com/pin/564709240770047187/"
     },
     {
       "photoID": 2,
@@ -177,17 +177,17 @@
     {
       "photoID": 5,
       "name": "Cars",
-      "url": "https://www.google.com/search?q=cars&sxsrf=ALeKk01NokqvmeTSLjnoxnOglPA4iK3iyw:1615463049829&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_7-3plKjvAhVOlosKHS0DB40Q_AUoAXoECAsQAw&biw=1280&bih=586#imgrc=cB0JI16dIfkHWM"
+      "url": "https://www.pinterest.com/pin/25684660365173459/"
     },
     {
       "photoID": 6,
       "name": "Stars",
-      "url": "https://www.google.com/search?q=stars+sky&tbm=isch&ved=2ahUKEwjIrJqAlajvAhWHqIsKHcRDCPwQ2-cCegQIABAA&oq=stars+&gs_lcp=CgNpbWcQARgFMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDUMAfWMAfYMw4aABwAHgAgAF0iAF0kgEDMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=uAJKYMjwKYfRrgTEh6HgDw&bih=586&biw=1280#imgrc=r19ufrXBNE1BrM"
+      "url": "https://www.pinterest.com/pin/13088655155797373/"
     },
     {
       "photoID": 7,
       "name": "Celebrities",
-      "url": "https://www.google.com/search?q=j%2Cott+ajnj+pdepl&tbm=isch&ved=2ahUKEwjZ_bCXlajvAhVNxioKHf8OAOEQ2-cCegQIABAA&oq=j%2Cott+ajnj+pdepl&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BwgjEOoCECc6BAgAEEM6BggAEAoQAToECAAQHjoECAAQAVDRc1iCpwFgk6kBaAFwAHgDgAGzAYgBhRmSAQQwLjI2mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=6QJKYJnlEc2MqwH_nYCIDg&bih=586&biw=1280#imgrc=DAqRBYbL9szsCM&imgdii=LrQAmsCCY66MAM"
+      "url": "https://www.pinterest.com/pin/339036678203044679/"
     },
     {
       "photoID": 8,
@@ -197,12 +197,12 @@
     {
       "photoID": 9,
       "name": "Candies",
-      "url": "https://www.google.com/search?q=candies&sxsrf=ALeKk00x3JhjdKfIIXHk_ovk7B6Z0J7eUQ:1615462767957&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiu4Lnjk6jvAhVMposKHRCmALAQ_AUoAXoECAMQAw&biw=1280&bih=586#imgrc=sa5kbuGkQXJ0FM"
+      "url": "https://www.pinterest.com/pin/68738028514/"
     },
     {
       "photoID": 10,
       "name": "Beauty",
-      "url": "https://www.google.com/search?q=beauty&tbm=isch&ved=2ahUKEwj3lcLkk6jvAhXGBncKHVNsCFEQ2-cCegQIABAA&oq=beauty&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgQIABBDOgUIABCxA1DByQNYx9QDYMDXA2gAcAB4AIABbogB2ASSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=cgFKYPeUC8aN3APT2KGIBQ&bih=586&biw=1280#imgrc=W2CA-VIELGOk_M"
+      "url": "https://www.pinterest.com/pin/6403624460198501/"
     }
   ],
   "companies": [
@@ -267,7 +267,7 @@
       "field": "constraction"
     }
   ],
-  "metals" [
+  "metals": [
     {
       "id": 1,
       "name": "Gold",
