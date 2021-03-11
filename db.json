@@ -231,30 +231,6 @@
             "CompanyName": "The Ritz-Carlton Hotel Company",
             "country": "The United States of America",
             "field": "luxury hotel chain"
-        },
-        {
-            "id": 7,
-            "CompanyName": "Marriott International, Inc.",
-            "country": "The United States of America",
-            "field": "hospitality"
-        },
-        {
-            "id": 8,
-            "CompanyName": "Facebook, Inc.",
-            "country": "The United States of America",
-            "field": "information technology, social networking services"
-        },
-        {
-            "id": 9,
-            "CompanyName": "Kylie Cosmetics",
-            "country": "The United States of America",
-            "field": "cosmetics"
-        },
-        {
-            "id": 10,
-            "CompanyName": "BI Group",
-            "country": "Kazakhstan",
-            "field": "constraction"
         }
     ],
     "metals": [
@@ -293,30 +269,6 @@
             "name": "Scandium",
             "chemical sign": "Sc",
             "atomic number": 21
-        },
-        {
-            "id": 7,
-            "name": "Titanium",
-            "chemical sign": "Ti",
-            "atomic number": 22
-        },
-        {
-            "id": 8,
-            "name": "Iridium",
-            "chemical sign": "Ir",
-            "atomic number": 77
-        },
-        {
-            "id": 9,
-            "name": "Platinum",
-            "chemical sign": "Pt",
-            "atomic number": 78
-        },
-        {
-            "id": 10,
-            "name": "Wolfram",
-            "chemical sign": "W",
-            "atomic number": 74
         }
     ]
 }
