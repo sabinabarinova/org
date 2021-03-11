@@ -1,2 +1,2 @@
 # org-repo
-To get data using using custom fake API
+To get data using custom fake API
